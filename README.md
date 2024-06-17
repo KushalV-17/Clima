@@ -14,12 +14,12 @@ User-Friendly Interface: Simple and intuitive design for seamless user experienc
 
 1.Clone the repository:
    bash:
-   git clone https://github.com/yourusername/clima.git
+   git clone https://github.com/KushalV-17/clima.git
 
 2.Navigate to the project directory:
    bash:
    cd clima
-
+   
 3. Install dependencies:
    bash:
    npm install
