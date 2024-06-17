@@ -10,6 +10,26 @@ Detailed Forecasts: Provides detailed weather forecasts, including hourly and we
 
 User-Friendly Interface: Simple and intuitive design for seamless user experience.
 
+# Installation
+
+1.Clone the repository:
+   bash:
+   git clone https://github.com/yourusername/clima.git
+
+2.Navigate to the project directory:
+   bash:
+   cd clima
+
+3. Install dependencies:
+   bash:
+   npm install
+
+4.Run the application:
+   bash:
+   npm run dev
+
+
+
 
 
 
