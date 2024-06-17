@@ -1,3 +1,3 @@
 export default {
-  base: "/hmb-map/",
+  base: "/Clima/",
 };
