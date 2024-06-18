@@ -10,6 +10,11 @@ Detailed Forecasts: Provides detailed weather forecasts, including hourly and we
 
 User-Friendly Interface: Simple and intuitive design for seamless user experience.
 
+
+https://github.com/KushalV-17/Clima/assets/173029490/2c1e639e-f1f7-4c3a-b016-991e5a98ccab
+
+
+
 # Installation
 
 1.Clone the repository:
