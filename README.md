@@ -33,7 +33,7 @@ https://github.com/KushalV-17/Clima/assets/173029490/2c1e639e-f1f7-4c3a-b016-991
    bash:
    npm run dev
 
-
+LIVE:[clima-f14eb.web.app](https://clima-f14eb.web.app/)
 
 
 
